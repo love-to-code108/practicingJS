@@ -1,1 +1,3 @@
-# practicingJS
+# Practicing JavaScript
+- Practice 
+- Revision
